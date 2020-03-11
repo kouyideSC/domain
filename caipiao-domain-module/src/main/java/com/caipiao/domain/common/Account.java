@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * 系统帐户对象
- * author kouyi
+ * author kouyi-
  */
 public class Account implements Serializable
 {

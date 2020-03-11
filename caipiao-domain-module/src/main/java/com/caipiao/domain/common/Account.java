@@ -8,7 +8,7 @@ import java.util.Date;
  */
 public class Account implements Serializable
 {
-    private Long id;
+    private Long id;//唯一
     private String accountName;//帐户名
     private String password;//密码
     private String personalName;//真实姓名

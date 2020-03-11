@@ -1,6 +1,6 @@
 package com.caipiao.domain.common;
 
-//dev
+//master
 public class Abc {
     private String a;
 

@@ -9,7 +9,7 @@ import java.util.Date;
  */
 public class Account implements Serializable
 {
-    private Long id;//唯一master修改
+    private Long id;//唯一dev修改
     private String accountName;//帐户名
     private String password;//密码
     private String personalName;//真实姓名
